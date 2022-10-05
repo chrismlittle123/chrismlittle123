@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**chrismlittle123/chrismlittle123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chris and I love working with data, here are some projects that I've worked on in the past.
 
-Here are some ideas to get you started:
+### Shipping API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository:
+
+An API that lets you retrieve data from the EU-MRV public CO2 emission report:
+
+https://mrv.emsa.europa.eu/#public/emission-report
+
+You can interact with this API using this streamlit app:
+
+### Rightmove Scrape
+
+Repository:
+
+I built a Rightmove Scrape using AWS Lambda, you can play with it in this streamlit app:
+
+### Purchasing System
+
+Repository:
+
+Here is an entire system for purchasing cars:
