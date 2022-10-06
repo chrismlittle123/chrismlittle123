@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**chrismlittle123/chrismlittle123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chris and I love working with data, here are some projects that I've worked on in the past.
 
-Here are some ideas to get you started:
+### Shipping API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository:
+
+An API that lets you retrieve data from the EU-MRV public CO2 emission report:
+
+https://mrv.emsa.europa.eu/#public/emission-report
+
+You can interact with this API using this streamlit app:
+
+https://chrismlittle123-shipping-api-v2-appstreamlit-app-adxcw3.streamlitapp.com/
