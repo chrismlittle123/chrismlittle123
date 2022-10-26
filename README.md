@@ -12,4 +12,4 @@ https://mrv.emsa.europa.eu/#public/emission-report
 
 You can interact with this API using this streamlit app:
 
-https://chrismlittle123-shipping-api-v2-appstreamlit-app-adxcw3.streamlitapp.com/
+https://chrismlittle123-shipping-api-v2-appstreamlit-app-z461gh.streamlitapp.com/
