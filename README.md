@@ -34,6 +34,7 @@ http://mastermindapp-env.eba-jmbgah2n.eu-west-2.elasticbeanstalk.com/
 ### Shipping API
 
 (Deactivated to save money)
+
 Repositories
 - https://github.com/chrismlittle123/shipping-api-v2
 
@@ -44,7 +45,8 @@ https://mrv.emsa.europa.eu/#public/emission-report
 
 ### Bar Database
 
-Repository: https://github.com/chrismlittle123/bar-database
+Repositories:
+- https://github.com/chrismlittle123/bar-database
 
 As part of an analytics engineering project I built a cocktail database using the Cocktail DB API:
 
