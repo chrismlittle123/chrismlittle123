@@ -2,7 +2,7 @@
 
 My name is Chris and I like building software, here are some projects that I've worked on in the past.
 
-### My Blog
+### My Blog
 
 Repositories:
 - https://github.com/chrismlittle123/my-blog
@@ -21,7 +21,7 @@ An AI Sales Assistant that answers questions based on a context document
 
 http://dani.eu-west-2.elasticbeanstalk.com/
 
-### MasterMind
+### MasterMind
 
 Repositories:
 - https://github.com/chrismlittle123/mastermind
