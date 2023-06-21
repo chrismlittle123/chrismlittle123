@@ -27,7 +27,7 @@ Repositories:
 - https://github.com/chrismlittle123/mastermind
 - https://github.com/chrismlittle123/mastermind-api
 
-A quiz game like the British TV show mastermind, where you answer questions from my bank of knowledge and an LLM is used to determine whether the answers are correct or not.
+A quiz game like the British TV show MasterMind, where you answer questions from my bank of knowledge and an LLM is used to determine whether the answers are correct or not.
 
 http://mastermindapp-env.eba-jmbgah2n.eu-west-2.elasticbeanstalk.com/
 
