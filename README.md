@@ -11,16 +11,6 @@ Personal blog where you can listen to me rant about random stuff
 
 http://chris-little.com
 
-### DANI
-
-Repositories:
-- https://github.com/chrismlittle123/dani
-- https://github.com/chrismlittle123/dani-api
-
-An AI Sales Assistant that answers questions based on a context document
-
-http://dani.eu-west-2.elasticbeanstalk.com/
-
 ### MasterMind
 
 Repositories:
@@ -32,8 +22,6 @@ A quiz game like the British TV show MasterMind, where you answer questions from
 http://mastermindapp-env.eba-jmbgah2n.eu-west-2.elasticbeanstalk.com/
 
 ### Shipping API
-
-(Deactivated to save money)
 
 Repositories
 - https://github.com/chrismlittle123/shipping-api-v2
