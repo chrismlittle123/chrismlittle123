@@ -2,15 +2,6 @@
 
 My name is Chris and I like building software, here are some projects that I've worked on in the past.
 
-### My Blog
-
-Repositories:
-- https://github.com/chrismlittle123/my-blog
-
-Personal blog where you can listen to me rant about random stuff
-
-http://chris-little.com
-
 ### MasterMind
 
 Repositories:
