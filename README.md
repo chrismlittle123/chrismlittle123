@@ -27,6 +27,6 @@ https://mrv.emsa.europa.eu/#public/emission-report
 Repositories:
 - https://github.com/chrismlittle123/bar-database
 
-As part of an analytics engineering project I built a cocktail database using the Cocktail DB API:
+As part of a data engineering project I built a cocktail database using the Cocktail DB API:
 
 https://www.thecocktaildb.com/
