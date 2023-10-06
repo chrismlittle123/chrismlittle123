@@ -10,7 +10,7 @@ Repositories:
 
 A quiz game like the British TV show MasterMind, where you answer questions from my bank of knowledge and an LLM is used to determine whether the answers are correct or not.
 
-http://mastermindapp-env.eba-jmbgah2n.eu-west-2.elasticbeanstalk.com/
+https://d2sywio6gckofl.cloudfront.net/
 
 ### Shipping API
 
