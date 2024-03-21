@@ -1,32 +1,7 @@
 ### Hi there 👋
 
-My name is Chris and I like building software, here are some projects that I've worked on in the past.
+My name is Chris Little and I'm the CTO at SpeedSheet. We help businesses streamline their spreadsheets by turning them into powerful, optimised web applications with a simple click of a button.
 
-### MasterMind
-
-Repositories:
-- https://github.com/chrismlittle123/mastermind
-- https://github.com/chrismlittle123/mastermind-api
-
-A quiz game like the British TV show MasterMind, where you answer questions from my bank of knowledge and an LLM is used to determine whether the answers are correct or not.
-
-https://d2sywio6gckofl.cloudfront.net/
-
-### Shipping API
-
-Repositories
-- https://github.com/chrismlittle123/shipping-api-v2
-
-An API that lets you retrieve data from the EU-MRV public CO2 emission report:
-
-https://mrv.emsa.europa.eu/#public/emission-report
-
-
-### Bar Database
-
-Repositories:
-- https://github.com/chrismlittle123/bar-database
-
-As part of a data engineering project I built a cocktail database using the Cocktail DB API:
-
-https://www.thecocktaildb.com/
+Find us at: https://www.speedsheet.co.uk/
+Call us at: +44 7957610802
+Email me at: chris@speedsheet.co.uk
