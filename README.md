@@ -6,5 +6,7 @@ My portfolio website: https://chris-little.com
 
 My contact details:
 
-#### Email: christopher.little.personal@gmail.com
-#### Phone: 07957610802
+#### Email
+christopher.little.personal@gmail.com
+#### Phone
+07957610802
