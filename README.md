@@ -2,10 +2,8 @@
 
 My name is Chris Little and I'm a Data Consultant based in Oxford, UK.
 
-My portfolio website: https://chris-little.com
-
-My contact details:
-
+#### Portolio Website
+https://chris-little.com
 #### Email
 christopher.little.personal@gmail.com
 #### Phone
